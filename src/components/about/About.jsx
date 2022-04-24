@@ -54,11 +54,10 @@ const About = () => {
             website in NodeJS using Visual Studio Code to enhance my knowledge
             on <i>Web Development</i>
           </p>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
-
-        <a href="#contact" className="btn btn-primary">
-          Let's Talk
-        </a>
       </div>
     </section>
   );
