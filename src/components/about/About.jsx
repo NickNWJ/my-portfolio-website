@@ -27,7 +27,7 @@ const About = () => {
                 <ul>
                   ⭐ Degree in Computer Science in Multimedia University
                   Cyberjaya
-                  <li> 🌗 CGPA 3.09</li>
+                  <li> 🌗 CGPA 3.38</li>
                 </ul>
                 <br />
                 <ul>
