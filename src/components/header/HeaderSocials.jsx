@@ -21,7 +21,7 @@ const HeaderSocials = () => {
         <FaGithub />
       </a>
       <a
-        href="https://api.whatsapp.com/send?phone=+601136693307"
+        href="https://api.whatsapp.com/send/?phone=601136693307&text&type=phone_number&app_absent=0"
         target="_blank"
         rel="noreferrer noopener"
       >
